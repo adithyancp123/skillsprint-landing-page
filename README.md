@@ -1,32 +1,36 @@
 # SkillSprint Landing Page
 
-A premium, fully responsive landing page built for a fictional AI-powered learning platform called **SkillSprint**.  
+A premium, fully responsive landing page built for a fictional AI-powered learning platform called **SkillSprint**.
+
 Designed to showcase modern frontend development skills through polished UI, smooth interactions, and conversion-focused user experience.
 
 ---
 
-## Overview
+## Live Demo
 
-SkillSprint is a concept platform that helps users learn new skills faster with personalized AI-driven guidance.  
-This project was created as a frontend assignment to demonstrate clean design thinking, responsive development, and interactive web experiences.
+https://sensational-bublanina-6aaf03.netlify.app/
+
+---
+
+## GitHub Repository
+
+https://github.com/adithyancp123/skillsprint-landing-page
 
 ---
 
 ## Features
 
-- Fully responsive design for mobile, tablet, and desktop
-- Premium modern dark-themed interface
+- Fully responsive design
+- Premium dark modern UI
+- Smooth animations and transitions
 - Sticky navigation bar
-- Smooth scrolling and section transitions
-- Interactive hero section
-- Feature cards with hover effects
-- How It Works timeline section
+- Hero dashboard section
+- Interactive feature cards
 - Testimonials carousel
-- Pricing plans with monthly / annual toggle
+- Pricing toggle
 - FAQ accordion
-- Newsletter / CTA section
-- Floating back-to-top button
-- Optimized layout and performance
+- CTA conversion sections
+- Optimized performance
 
 ---
 
@@ -34,17 +38,11 @@ This project was created as a frontend assignment to demonstrate clean design th
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript
 
 ---
 
-## Project Structure
+## Run Locally
 
 ```bash
-skillsprint-landing-page/
-│── index.html
-│── css/
-│   └── style.css
-│── js/
-│   └── script.js
-│── assets/
+git clone https://github.com/adithyancp123/skillsprint-landing-page.git
